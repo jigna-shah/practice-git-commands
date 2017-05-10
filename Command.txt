@@ -1,0 +1,8 @@
+- Create a git repository in git
+- Create a local folder
+- On Command line go to that directory
+- run command 'git init'
+- run command 'git commit -m "<comment>" '
+- run command 'git add'
+- run command 'git remote add origin https://github.com/jigna-shah/practice-git-commands.git'
+- run command git push -u origin master
