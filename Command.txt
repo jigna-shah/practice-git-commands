@@ -6,3 +6,5 @@
 - run command 'git add'
 - run command 'git remote add origin https://github.com/jigna-shah/practice-git-commands.git'
 - run command git push -u origin master
+- after updating file 
+		'git commit -m "<comment> Command.txt" 
